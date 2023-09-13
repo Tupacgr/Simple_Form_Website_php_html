@@ -9,5 +9,7 @@ Thanks for downloading my work!
 
 Contact:
 Email: johnlar0701@gmail.com
+
 Discord Username: tupacgr
+
 Discord Server: https://discord.gg/e86WNnAQKm
