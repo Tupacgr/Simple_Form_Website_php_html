@@ -1,0 +1,19 @@
+* {
+    text-align: center;
+    
+}
+#thanks {
+    font-size: 250%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: aqua
+}
+body {
+    display: block;
+    margin: 0 auto;
+    background-position: center;
+    background-size: auto;
+    overflow: hidden;
+}
