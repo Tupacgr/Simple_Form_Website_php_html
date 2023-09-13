@@ -1,7 +1,13 @@
-A simple forum website that will send the answers from the users to a database in order to be stored there! 
+Just a 16-yeal-old programming!
 
-Written in Html and Php. Styling: Css. 
+A simple forum website that will send the answers from the users to a database in order to be stored there!
 
-Fell free to contact me on github or email me at johnlar0701@gmail.com or send me a friend request on discord: tupacgr
+Written in Html and Php. Styling: Css.
 
 Thanks for downloading my work!
+
+Contact: Email: johnlar0701@gmail.com
+
+Discord Username: tupacgr
+
+Discord Server: https://discord.gg/e86WNnAQKm
