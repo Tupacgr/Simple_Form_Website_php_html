@@ -16,7 +16,6 @@
 		$stmt->bind_param("ssiiis", $fullname, $gender, $age, $percentage_save, $percentage_spend, $satisfied);
 		$execval = $stmt->execute();
 		echo $execval;
-		//echo "Registration successfully...";
 		$stmt->close();
 		$conn->close();
 		header("Location: thanks.php", true, 301);
