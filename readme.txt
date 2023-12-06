@@ -8,6 +8,6 @@ Thanks for downloading my work!
 
 Contact: Email: johnlar0701@gmail.com
 
-Discord Username: tupacgr
+Discord Username: fronxofficial
 
-Discord Server: https://discord.gg/e86WNnAQKm
+Discord Server: https://discord.gg/6fuPqT25EM
